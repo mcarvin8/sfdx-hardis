@@ -1,0 +1,29 @@
+docs/all-env-variables.md
+  2d56422216711010 91,282
+src/commands/hardis/org/diagnose/underusedpermsets.ts
+  2d56422216711010 1-224
+src/common/notifProvider/types.ts
+  2d56422216711010 30
+docs/salesforce-monitoring-underused-permsets.md
+  2d56422216711010 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "8ba471efc1003f73fc67d9fe8082d34a8fc5162c",
+  "prompts": {
+    "2d56422216711010": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9b5e6621-04e2-4a02-bd27-06c5e667ff5a",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 275,
+      "total_deletions": 14,
+      "accepted_lines": 257,
+      "overriden_lines": 0
+    }
+  }
+}
