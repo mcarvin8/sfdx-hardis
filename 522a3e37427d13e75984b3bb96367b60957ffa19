@@ -1,0 +1,25 @@
+docs/salesforce-monitoring-apex-api-version.md
+  62c4e6b49c50276c 1-15
+docs/salesforce-monitoring-home.md
+  62c4e6b49c50276c 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.11",
+  "base_commit_sha": "522a3e37427d13e75984b3bb96367b60957ffa19",
+  "prompts": {
+    "62c4e6b49c50276c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "38a8887b-9601-49ed-8e44-94a4fb962459",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 16,
+      "total_deletions": 0,
+      "accepted_lines": 16,
+      "overriden_lines": 0
+    }
+  }
+}
