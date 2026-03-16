@@ -1,0 +1,33 @@
+src/common/notifProvider/types.ts
+  62c4e6b49c50276c 32
+src/commands/hardis/org/monitor/all.ts
+  62c4e6b49c50276c 126-130
+docs/hardis/org/diagnose/apex-api-version.md
+  62c4e6b49c50276c 1-51
+mkdocs.yml
+  62c4e6b49c50276c 285
+src/commands/hardis/org/diagnose/apex-api-version.ts
+  62c4e6b49c50276c 1-223
+docs/all-env-variables.md
+  62c4e6b49c50276c 91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.11",
+  "base_commit_sha": "5d264ee444a21fe7d51ba3cac049203013c55c8a",
+  "prompts": {
+    "62c4e6b49c50276c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "38a8887b-9601-49ed-8e44-94a4fb962459",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 283,
+      "total_deletions": 0,
+      "accepted_lines": 283,
+      "overriden_lines": 0
+    }
+  }
+}
