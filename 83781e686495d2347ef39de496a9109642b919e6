@@ -1,0 +1,37 @@
+src/commands/hardis/org/monitor/all.ts
+  62c4e6b49c50276c 48-52
+src/common/utils/apiUtils.ts
+  62c4e6b49c50276c 51,61-71,73-82,86,88,90
+mkdocs.yml
+  62c4e6b49c50276c 294
+src/commands/hardis/org/diagnose/deployments.ts
+  62c4e6b49c50276c 1-288
+src/common/notifProvider/types.ts
+  62c4e6b49c50276c 44-45
+docs/salesforce-monitoring-home.md
+  62c4e6b49c50276c 98
+docs/salesforce-monitoring-deployments.md
+  62c4e6b49c50276c 1-31
+.github/linters/.cspell.json
+  62c4e6b49c50276c 624
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "83781e686495d2347ef39de496a9109642b919e6",
+  "prompts": {
+    "62c4e6b49c50276c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "38a8887b-9601-49ed-8e44-94a4fb962459",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 415,
+      "total_deletions": 41,
+      "accepted_lines": 384,
+      "overriden_lines": 0
+    }
+  }
+}
