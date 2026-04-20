@@ -1,0 +1,35 @@
+.github/linters/.cspell.json
+  62c4e6b49c50276c 624
+src/common/notifProvider/types.ts
+  62c4e6b49c50276c 44
+docs/salesforce-monitoring-home.md
+  62c4e6b49c50276c 95
+src/commands/hardis/org/monitor/all.ts
+  62c4e6b49c50276c 30-34
+src/commands/hardis/org/diagnose/bulkapi.ts
+  62c4e6b49c50276c 1-378
+mkdocs.yml
+  62c4e6b49c50276c 24-25,27-31,38-39,41-45,295
+docs/salesforce-monitoring-bulk-api.md
+  62c4e6b49c50276c 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "4b82bb45ea1a9a7541ffeb5601bb9558da16e939",
+  "prompts": {
+    "62c4e6b49c50276c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "38a8887b-9601-49ed-8e44-94a4fb962459",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 477,
+      "total_deletions": 32,
+      "accepted_lines": 461,
+      "overriden_lines": 0
+    }
+  }
+}

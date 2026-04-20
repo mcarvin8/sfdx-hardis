@@ -1,0 +1,23 @@
+src/commands/hardis/org/diagnose/minimalpermsets.ts
+  62c4e6b49c50276c 25-36,49,108-109,121-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "9873a26e5154bd272d1abd4f1245a2d685ae302a",
+  "prompts": {
+    "62c4e6b49c50276c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "38a8887b-9601-49ed-8e44-94a4fb962459",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 34,
+      "total_deletions": 27,
+      "accepted_lines": 18,
+      "overriden_lines": 0
+    }
+  }
+}

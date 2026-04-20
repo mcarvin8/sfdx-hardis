@@ -1,0 +1,25 @@
+src/commands/hardis/org/diagnose/underusedpermsets.ts
+  2d56422216711010 25,27-29,33-34,44-45,79-80,114,120-142,169,175-197,206-208,216-218,241-242,246-247,261-263,265-266,268-269,290-291
+docs/salesforce-monitoring-underused-permsets.md
+  2d56422216711010 13-14,16-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "2eb8322748b3b986bb5a2417cc36c386cd6155fb",
+  "prompts": {
+    "2d56422216711010": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9b5e6621-04e2-4a02-bd27-06c5e667ff5a",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 343,
+      "total_deletions": 272,
+      "accepted_lines": 168,
+      "overriden_lines": 0
+    }
+  }
+}

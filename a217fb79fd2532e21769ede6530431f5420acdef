@@ -1,0 +1,41 @@
+src/common/utils/apexLimitUtils.ts
+  2d56422216711010 35
+  ca9290ba26cfd6f4 1-2
+docs/all-env-variables.md
+  ca9290ba26cfd6f4 6-19,25,43-53,71-73,81-83,88-90,94-96,106-108,113-121,135-137,144-146,150-152,157-159,167-169,176-178,188-190,201-203,210-214,225-229,236-240,245-249,255-257,262-264,269-271,276-286
+src/commands/hardis/org/monitor/limits.ts
+  ca9290ba26cfd6f4 13-14,17,20-53,55,74,77,80,83,88,90,95,122-162,164,167,172,179,184-188,199-203,211,222,236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.9",
+  "base_commit_sha": "a217fb79fd2532e21769ede6530431f5420acdef",
+  "prompts": {
+    "2d56422216711010": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9b5e6621-04e2-4a02-bd27-06c5e667ff5a",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "ca9290ba26cfd6f4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d6fa8f40-cfa1-4c9d-b6c5-3a2b0b5ae90e",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 219,
+      "overriden_lines": 0
+    }
+  }
+}

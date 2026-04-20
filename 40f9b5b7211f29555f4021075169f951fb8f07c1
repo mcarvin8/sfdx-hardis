@@ -1,0 +1,23 @@
+.github/linters/.cspell.json
+  2d56422216711010 259-260,929-930,1128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "40f9b5b7211f29555f4021075169f951fb8f07c1",
+  "prompts": {
+    "2d56422216711010": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9b5e6621-04e2-4a02-bd27-06c5e667ff5a",
+        "model": "composer-1.5"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 1206,
+      "total_deletions": 1201,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}

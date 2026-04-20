@@ -1,0 +1,27 @@
+src/commands/hardis/org/diagnose/deployments.ts
+  2479132e683b4b2f 11,189-204,232,262-264,275-276,280
+src/commands/hardis/org/diagnose/apex-api-version.ts
+  2479132e683b4b2f 11,175
+src/common/utils/orgNotificationContext.ts
+  2479132e683b4b2f 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "34fe6553aa0553a72dd390de0a2c39895f9b545c",
+  "prompts": {
+    "2479132e683b4b2f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "76263176-bc79-4874-8a84-ad285f4166de",
+        "model": "default"
+      },
+      "human_author": "Matt Carvin <90224411+mcarvin8@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 334,
+      "total_deletions": 352,
+      "accepted_lines": 88,
+      "overriden_lines": 0
+    }
+  }
+}
