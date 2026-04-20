@@ -1,0 +1,35 @@
+src/common/aiProvider/langChainProviders/langChainOpenAIProvider.ts
+  0fb1bc7ae785e810 7-12,19,21,24,27-36
+src/common/aiProvider/langchainProvider.ts
+  0fb1bc7ae785e810 35-36,70-79,101,193
+src/common/aiProvider/langChainProviders/langChainBaseProvider.ts
+  0fb1bc7ae785e810 10
+docs/salesforce-ai-setup.md
+  h_b104b674256482 86
+  0fb1bc7ae785e810 90-91,120-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "889087f9ca6d5a495ae89e7e56d77e1117fc0ad9",
+  "prompts": {
+    "0fb1bc7ae785e810": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "89225fa1-db88-440a-a9e6-8aaaccc0341e",
+        "model": "auto-high"
+      },
+      "human_author": "Matt Carvin",
+      "messages": [],
+      "total_additions": 50,
+      "total_deletions": 8,
+      "accepted_lines": 48,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_b104b674256482": {
+      "author": "Matt Carvin"
+    }
+  }
+}
