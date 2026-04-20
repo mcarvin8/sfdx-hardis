@@ -1,0 +1,23 @@
+src/common/aiProvider/providerConfigUtils.ts
+  31b282822d3f15c0 2,60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "f22e7ec6efe650e9f87afb0367c6f32c2fc6595d",
+  "prompts": {
+    "31b282822d3f15c0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2bec77dc-583e-4ab9-95ee-83d8602f3fec",
+        "model": "auto-high"
+      },
+      "human_author": "Matt Carvin",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 3,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
