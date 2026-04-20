@@ -1,0 +1,31 @@
+src/common/aiProvider/langChainProviders/langChainOpenAIProvider.ts
+  31b282822d3f15c0 5,58-62,67,70-80,82-86,88-92
+src/common/aiProvider/langchainProvider.ts
+  31b282822d3f15c0 10,71-75
+src/common/aiProvider/openaiProvider.ts
+  31b282822d3f15c0 8,63-67
+src/common/aiProvider/providerConfigUtils.ts
+  31b282822d3f15c0 50-96
+src/common/aiProvider/codexProvider.ts
+  31b282822d3f15c0 8,57-62,89-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "8cf38ac1ea7e5bb3681e2141dc2abeb986d80c99",
+  "prompts": {
+    "31b282822d3f15c0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2bec77dc-583e-4ab9-95ee-83d8602f3fec",
+        "model": "auto-high"
+      },
+      "human_author": "Matt Carvin",
+      "messages": [],
+      "total_additions": 100,
+      "total_deletions": 59,
+      "accepted_lines": 99,
+      "overriden_lines": 0
+    }
+  }
+}
