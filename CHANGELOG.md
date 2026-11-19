@@ -2,6 +2,7 @@
 
 ## [beta] (main)
 
+- [hardis:project:deploy:smart](https://sfdx-hardis.cloudity.com/hardis/project/deploy/smart/): an sf plugin can choose the Apex tests of a validation or a deployment with the new [sfdx-hardis:test-selection](https://sfdx-hardis.cloudity.com/sfdx-hardis-plugins/#choose-the-apex-tests) event.
 - [hardis:project:deploy:start](https://sfdx-hardis.cloudity.com/hardis/project/deploy/start/), [hardis:project:deploy:validate](https://sfdx-hardis.cloudity.com/hardis/project/deploy/validate/) and [hardis:project:deploy:quick](https://sfdx-hardis.cloudity.com/hardis/project/deploy/quick/): no longer fail with an unknown flag error when run from VS Code.
 - [hardis:org:monitor:backup](https://sfdx-hardis.cloudity.com/hardis/org/monitor/backup/): a documentation that cannot be generated or published no longer fails the backup job, it sends a warning notification instead.
 - [hardis:org:diagnose:instanceupgrade](https://sfdx-hardis.cloudity.com/hardis/org/diagnose/instanceupgrade/): the days left before the Salesforce upgrade are no longer shown as a negative number, the log line shows the org URL instead of raw markdown, and the notification is a warning only in the last 15 days.
